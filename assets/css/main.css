@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		font-size: 5em;
+		font-size: 3em;
 	}
 
 /* Form */
@@ -2187,6 +2187,7 @@ input, select, textarea {
 .fa-github, .fa-linkedin {
 	color: whitesmoke;
 }
+
 
 	ul.icons {
 		cursor: default;
