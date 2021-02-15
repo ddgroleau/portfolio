@@ -132,7 +132,7 @@ input, select, textarea {
 		color: #787878;
 		font-weight: 400;
 		line-height: 1em;
-		margin: 0 0 0.3em 0;
+		margin: 0em 0 .5em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1784,8 +1784,19 @@ input, select, textarea {
 		line-height: 1.5em;
 	}
 
+	header.major {
+	margin-bottom: 1em;
+	}
+
 	header.major h2 {
 		font-size: 3em;
+		display: inline-block;
+		vertical-align: middle;
+		margin-left: 0.4em;
+	}
+	header.major img {
+		vertical-align: middle;
+		display: inline-block;
 	}
 
 /* Form */
@@ -2248,7 +2259,7 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-left: -1em;
+		margin: 1em 0  -2em -1em;
 		padding-left: 0;
 	}
 
@@ -2466,6 +2477,8 @@ input, select, textarea {
 		.button:hover {
 			border-color: #49bf9d;
 			color: #49bf9d !important;
+			transition: 0.3s;
+			transform: translateX(.75em);
 		}
 
 		input[type="submit"]:active,
@@ -2638,10 +2651,12 @@ input, select, textarea {
 			margin: 0;
 		}
 
-		#header .image.avatar {
+		.image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
 		}
+
+	
 
 /* Footer */
 
@@ -2699,6 +2714,7 @@ input, select, textarea {
 				margin-top: 0;
 				padding-top: 0;
 			}
+
 
 /* Poptrox */
 
@@ -3002,7 +3018,7 @@ input, select, textarea {
 			}
 
 				#header h1 {
-					font-size: 1.25em;
+					font-size: 1.65em;
 				}
 
 					#header h1 br {
@@ -3028,7 +3044,7 @@ input, select, textarea {
 			#main {
 				margin-left: 30%;
 				max-width: none;
-				padding: 6em 3em 3em 3em;
+				padding: 4em 3em 3em 3em;
 				width: calc(100% - 30%);
 			}
 
@@ -3143,6 +3159,7 @@ input, select, textarea {
 			header.major h2 {
 				font-size: 1.35em;
 			}
+
 
 		/* List */
 
