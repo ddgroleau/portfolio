@@ -1,0 +1,106 @@
+{
+    "header": {
+        "name": "Dan Groleau",
+        "phone": "(603)-913-3026",
+        "email": "ddgroleau@gmail.com",
+        "city": "Denver",
+        "state" : "CO/Remote",
+        "social": {
+                    "github":"",
+                    "linkedin":"",
+                    "portfolio":""
+                  }
+        },
+    "experience": {
+        "job1" : {
+            "title": "",
+            "company": "",
+            "city": "",
+            "state": "",
+            "from": "",
+            "to": "",
+            "bullet1": "",
+            "bullet2": "",
+            "bullet3": ""
+        },
+        "job2" : {
+            "title": "",
+            "company": "",
+            "city": "",
+            "state": "",
+            "from": "",
+            "to": "",
+            "bullet1": "",
+            "bullet2": "",
+            "bullet3": ""
+        },
+        "job3" : {
+            "title": "",
+            "company": "",
+            "city": "",
+            "state": "",
+            "from": "",
+            "to": "",
+            "bullet1": "",
+            "bullet2": "",
+            "bullet3": ""
+        }
+    },
+    "education": {
+        "college1": {
+            "school": "",
+            "degree": "",
+            "city": "",
+            "state": "",
+            "from": "",
+            "to": "",
+            "bullet1": ""
+        },
+        "college2": {
+            "school": "",
+            "degree": "",
+            "city": "",
+            "state": "",
+            "from": "",
+            "to": "",
+            "bullet1": ""
+        }
+    },
+    "certifications": {
+        "cert1": {
+            "name":"",
+            "organization":"",
+            "from": "",
+            "to": "",
+            "description": ""
+        },
+        "cert2": {
+            "name":"",
+            "organization":"",
+            "from": "",
+            "to": "",
+            "description": ""
+        }
+    },
+    "personal": {
+        "project1": {
+            "name":"",
+            "technologies":"",
+            "description":"",
+            "links" :{
+                "github":"",
+                "live":""
+            }
+        }
+    },
+    "military":{
+        "summary":"",
+        "city": "",
+        "state": "",
+        "from": "",
+        "to": "",
+        "bullet1": "",
+        "bullet2": "",
+        "bullet3": ""
+    }
+}
